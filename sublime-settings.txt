@@ -1,0 +1,14 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"font_size": 15,
+	"save_on_focus_lost": true,
+	"word_wrap": true,
+	"translate_tabs_to_spaces": true,
+	"tab_size": 4
+
+}
